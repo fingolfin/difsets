@@ -1,5 +1,5 @@
-[![travis](https://travis-ci.com/dylanpeifer/difsets.svg?branch=master)](https://travis-ci.com/dylanpeifer/difsets)
-[![codecov](https://codecov.io/gh/dylanpeifer/difsets/branch/master/graph/badge.svg)](https://codecov.io/gh/dylanpeifer/difsets)
+[![CI](https://github.com/dylanpeifer/difsets/actions/workflows/CI.yml/badge.svg)](https://github.com/dylanpeifer/difsets/actions/workflows/CI.yml)
+[![Code Coverage](https://codecov.io/github/dylanpeifer/difsets/coverage.svg?branch=master&token=)](https://codecov.io/gh/dylanpeifer/difsets)
 
 # The DifSets Package
 
