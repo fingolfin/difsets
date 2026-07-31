@@ -98,7 +98,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Contact
 
@@ -107,7 +107,7 @@ Dylan Peifer, at djp282@cornell.edu.
 
 [1]: https://www.gap-system.org/
 [2]: https://gap-packages.github.io/grape/
-[3]: http://www.math.rwth-aachen.de/~Frank.Luebeck/GAPDoc/index.html
+[3]: https://www.math.rwth-aachen.de/~Frank.Luebeck/GAPDoc/index.html
 [4]: https://gap-packages.github.io/smallgrp/
 [5]: https://github.com/dylanpeifer/difsets/releases/download/v2.3.1/difsets-2.3.1.tar.gz
 [6]: https://dylanpeifer.github.io/difsets/

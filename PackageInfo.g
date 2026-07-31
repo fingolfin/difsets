@@ -73,7 +73,7 @@ SetPackageInfo( rec(
 
                 You should have received a copy of the GNU General Public
                 License along with this program. If not, see
-                <URL>http://www.gnu.org/licenses/</URL>.
+                <URL>https://www.gnu.org/licenses/</URL>.
             """,
             Abstract := """
                 The <Package>DifSets</Package> Package implements an algorithm
