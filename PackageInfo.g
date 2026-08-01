@@ -52,6 +52,7 @@ SetPackageInfo( rec(
         GAP := "4.9",
         NeededOtherPackages := [ ["GAPDoc", "1.5"], ["GRAPE", "4.7"] ],
         SuggestedOtherPackages := [ ["SmallGrp", "1.3"] ],
+        TestPackages := [ ["SmallGrp", "1.3"] ],
         ),
     AvailabilityTest := ReturnTrue,
     TestFile := "tst/testall.g",

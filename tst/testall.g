@@ -6,6 +6,7 @@
 ##
 
 LoadPackage("DifSets");
+LoadPackage("SmallGrp");   # the tests refer to groups by their small group id
 
 TestDirectory(DirectoriesPackageLibrary("DifSets", "tst"),
   rec(exitGAP     := true,
